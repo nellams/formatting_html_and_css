@@ -1,0 +1,53 @@
+body {
+  font-family: Verdana;
+  background-color: #F6F7EE;
+  margin: 0;
+}
+
+header {
+  background-color: #FF5000;
+  padding: 0.3em;
+  margin-bottom: 0.5em;
+  margin-left: 0.5em;
+  font-weight: bold;
+}
+
+.site-name {
+  font-family: Courier;
+  color: #FFF3EB;
+  display: inline-block;
+  font-size: 1.2em;
+  text-align: left;
+
+
+}
+
+.description {
+  display: inline-block;
+  font-size: 0.8em;
+  margin-left: 25%;
+
+}
+
+.recipe {
+  margin: 0.5em;
+}
+
+img {
+  width: 16em;
+  height: 12em;
+  margin-top: 1em;
+}
+.title {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 1em;
+}
+
+li {
+  font-size: 0.9em;
+  padding: 0.1em;
+}
